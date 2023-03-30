@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
  <head>
@@ -28,9 +29,9 @@
      <div
         id="personal_info_inner">
       <br>电话：
-      0101001<br>
+      10086<br>
       <br>邮箱:
-      lingyi@zeroner.cn<br>
+      1252584721@zeroner.cn<br>
       <br>地址：吉林省长春市<br>
      </div>
     </div>
@@ -49,13 +50,13 @@
       <div
          class="item_value_inner">
        <h1>
-        我能吞下玻璃而不伤身体
+        吉林大学本科
        </h1>
-       我能吞下玻璃而不伤身体
+       吉林大学软件工程本科
        <h1>
-        我能吞下玻璃而不伤身体
+        清华大学硕博
        </h1>
-       我能吞下玻璃而不伤身体
+       清华大学计算机科学与技术学院
       </div>
      </td>
     </tr>
@@ -109,13 +110,12 @@
       </div>
      </td>
      <td
-
-	      class="item_value">
+       class="item_value">
       <div
          class="item_value_inner">
-       我能吞下玻璃而不伤身体<br>
-       我能吞下玻璃而不伤身体<br>
-       我能吞下玻璃而不伤身体<br>
+       2021级三好学生<br>
+       2021级软件学院优秀学生<br>
+       新生运动会4*100米接力赛亚军<br>
       </div>
      </td>
     </tr>
@@ -130,10 +130,10 @@
      <td
        class="item_value">
       <div   class="item_value_inner">
-       我能吞下玻璃而不伤身体<br>
-       我能吞下玻璃而不伤身体
+       短跑100米<br>
+       前端开发
        <br>
-       我能吞下玻璃二不伤身体
+      后端开发
        <br>
       </div>
      </td>
