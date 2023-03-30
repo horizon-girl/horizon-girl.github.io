@@ -13,10 +13,6 @@
 			<div id="title_block">
 				<div id="photo">
 					<div id="photo-inner">
-						<img
-								 src="example.jpg"
-								 style="height:100%;
-								 width:100%">
 					</div>
 					</div>
 				<div id="name">
